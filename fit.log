@@ -1,0 +1,936 @@
+
+
+*******************************************************************************
+Wed May 10 15:10:05 2017
+
+
+FIT:    data read from 'exetimeadaptive.dat'
+        format = z
+        #datapoints = 10000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 9.9980764327e+03   0.00e+00  1.00e+00    1.000000e+00
+   3 6.1569870111e-06  -1.62e-06  1.00e-03    9.618330e-05
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 6.15699e-06
+rel. change during last iteration : -1.62354e-11
+
+degrees of freedom    (FIT_NDF)                        : 9999
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.48145e-05
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.1576e-10
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 9.61833e-05      +/- 2.481e-07    (0.258%)
+
+
+*******************************************************************************
+Wed May 10 15:14:19 2017
+
+
+FIT:    data read from 'exetimeadaptive.dat'
+        format = z
+        #datapoints = 10000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 9.9986479756e+03   0.00e+00  1.00e+00    1.000000e+00
+   3 5.8630222556e-06  -1.71e-06  1.00e-03    6.760380e-05
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 5.86302e-06
+rel. change during last iteration : -1.70502e-11
+
+degrees of freedom    (FIT_NDF)                        : 9999
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.42149e-05
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.86361e-10
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 6.76038e-05      +/- 2.421e-07    (0.3582%)
+
+
+*******************************************************************************
+Wed May 10 15:15:29 2017
+
+
+FIT:    data read from 'exetimeadaptive.dat'
+        format = z
+        #datapoints = 10000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 9.9987992724e+03   0.00e+00  1.00e+00    1.000000e+00
+   3 2.3047983311e-06  -4.34e-06  1.00e-03    6.003830e-05
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.3048e-06
+rel. change during last iteration : -4.33737e-11
+
+degrees of freedom    (FIT_NDF)                        : 9999
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.51823e-05
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.30503e-10
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 6.00383e-05      +/- 1.518e-07    (0.2529%)
+
+
+*******************************************************************************
+Wed May 10 15:17:24 2017
+
+
+FIT:    data read from 'exetimeadaptive.dat'
+        format = z
+        #datapoints = 10000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 9.9980862227e+03   0.00e+00  1.00e+00    1.000000e+00
+   3 9.1387800279e-06  -1.09e-06  1.00e-03    9.569390e-05
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 9.13878e-06
+rel. change during last iteration : -1.0938e-11
+
+degrees of freedom    (FIT_NDF)                        : 9999
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.02319e-05
+variance of residuals (reduced chisquare) = WSSR/ndf   : 9.13969e-10
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 9.56939e-05      +/- 3.023e-07    (0.3159%)
+
+
+*******************************************************************************
+Thu May 11 10:47:48 2017
+
+
+FIT:    data read from 'exetimeadaptive.dat'
+        format = z
+        #datapoints = 10000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 9.9980915579e+03   0.00e+00  1.00e+00    1.000000e+00
+   3 1.2809783147e-05  -7.80e-07  1.00e-03    9.542730e-05
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.28098e-05
+rel. change during last iteration : -7.80328e-12
+
+degrees of freedom    (FIT_NDF)                        : 9999
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.57925e-05
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.28111e-09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 9.54273e-05      +/- 3.579e-07    (0.3751%)
+
+
+*******************************************************************************
+Thu May 11 17:13:45 2017
+
+
+FIT:    data read from 'exetimeadaptive.dat'
+        format = z
+        #datapoints = 10000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 9.9971554607e+03   0.00e+00  1.00e+00    1.000000e+00
+   3 1.4386828512e-05  -6.95e-07  1.00e-03    1.422378e-04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.43868e-05
+rel. change during last iteration : -6.94744e-12
+
+degrees of freedom    (FIT_NDF)                        : 9999
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.79319e-05
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.43883e-09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 0.000142238      +/- 3.793e-07    (0.2667%)
+
+
+*******************************************************************************
+Thu May 11 17:14:40 2017
+
+
+FIT:    data read from 'exetimeadaptive.dat'
+        format = z
+        #datapoints = 10000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 9.9986975562e+03   0.00e+00  1.00e+00    1.000000e+00
+   3 3.7595539975e-06  -2.66e-06  1.00e-03    6.512450e-05
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 3.75955e-06
+rel. change during last iteration : -2.659e-11
+
+degrees of freedom    (FIT_NDF)                        : 9999
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.93905e-05
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.75993e-10
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 6.51245e-05      +/- 1.939e-07    (0.2977%)
+
+
+*******************************************************************************
+Thu May 11 17:15:47 2017
+
+
+FIT:    data read from 'exetimeadaptive.dat'
+        format = z
+        #datapoints = 10000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 9.9980196415e+03   0.00e+00  1.00e+00    1.000000e+00
+   3 1.1444388524e-05  -8.73e-07  1.00e-03    9.902340e-05
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.14444e-05
+rel. change during last iteration : -8.73442e-12
+
+degrees of freedom    (FIT_NDF)                        : 9999
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.38312e-05
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.14455e-09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 9.90234e-05      +/- 3.383e-07    (0.3416%)
+
+
+*******************************************************************************
+Mon May 15 16:26:08 2017
+
+
+FIT:    data read from 'exetimeadaptive.dat'
+        format = z
+        #datapoints = 10000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 9.9988715703e+03   0.00e+00  1.00e+00    1.000000e+00
+   3 4.4281371711e-06  -2.26e-06  1.00e-03    5.642330e-05
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 4.42814e-06
+rel. change during last iteration : -2.25758e-11
+
+degrees of freedom    (FIT_NDF)                        : 9999
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.10442e-05
+variance of residuals (reduced chisquare) = WSSR/ndf   : 4.42858e-10
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 5.64233e-05      +/- 2.104e-07    (0.373%)
+
+
+*******************************************************************************
+Mon May 15 16:27:19 2017
+
+
+FIT:    data read from 'exetimeadaptive.dat'
+        format = z
+        #datapoints = 10000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 9.9976562027e+03   0.00e+00  1.00e+00    1.000000e+00
+   3 5.3601019100e-06  -1.86e-06  1.00e-03    1.171970e-04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 5.3601e-06
+rel. change during last iteration : -1.86481e-11
+
+degrees of freedom    (FIT_NDF)                        : 9999
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.31531e-05
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.36064e-10
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 0.000117197      +/- 2.315e-07    (0.1976%)
+
+
+*******************************************************************************
+Mon May 15 16:31:22 2017
+
+
+FIT:    data read from 'exetimeadaptive.dat'
+        format = z
+        #datapoints = 10000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 9.9976923860e+03   0.00e+00  1.00e+00    1.000000e+00
+   3 8.9355521240e-07  -1.12e-05  1.00e-03    1.153874e-04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 8.93555e-07
+rel. change during last iteration : -1.11864e-10
+
+degrees of freedom    (FIT_NDF)                        : 9999
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 9.45328e-06
+variance of residuals (reduced chisquare) = WSSR/ndf   : 8.93645e-11
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 0.000115387      +/- 9.453e-08    (0.08193%)
+
+
+*******************************************************************************
+Mon May 15 16:31:56 2017
+
+
+FIT:    data read from 'exetimeadaptive.dat'
+        format = z
+        #datapoints = 10000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 9.9976785576e+03   0.00e+00  1.00e+00    1.000000e+00
+   3 4.8283284319e-06  -2.07e-06  1.00e-03    1.160791e-04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 4.82833e-06
+rel. change during last iteration : -2.07021e-11
+
+degrees of freedom    (FIT_NDF)                        : 9999
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.19746e-05
+variance of residuals (reduced chisquare) = WSSR/ndf   : 4.82881e-10
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 0.000116079      +/- 2.197e-07    (0.1893%)
+
+
+*******************************************************************************
+Mon May 15 17:37:18 2017
+
+
+FIT:    data read from 'exetimeadaptive.dat'
+        format = z
+        #datapoints = 1000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 9.9975888118e+02   0.00e+00  1.00e+00    1.000000e+00
+   3 6.4491151100e-07  -1.55e-02  1.00e-03    1.205670e-04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 6.44912e-07
+rel. change during last iteration : -1.5471e-07
+
+degrees of freedom    (FIT_NDF)                        : 999
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.54078e-05
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.45557e-10
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 0.000120567      +/- 8.035e-07    (0.6664%)
+
+
+*******************************************************************************
+Mon May 15 17:37:40 2017
+
+
+FIT:    data read from 'exetimeadaptive.dat'
+        format = z
+        #datapoints = 1000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 9.9965792222e+02   0.00e+00  1.00e+00    1.000000e+00
+   3 4.9648048640e-06  -2.01e-03  1.00e-03    1.710560e-04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 4.9648e-06
+rel. change during last iteration : -2.00943e-08
+
+degrees of freedom    (FIT_NDF)                        : 999
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 7.04966e-05
+variance of residuals (reduced chisquare) = WSSR/ndf   : 4.96977e-09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 0.000171056      +/- 2.229e-06    (1.303%)
+
+
+*******************************************************************************
+Tue May 16 10:31:04 2017
+
+
+FIT:    data read from 'exetimeadaptive8.dat'
+        format = z
+        #datapoints = 10000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 9.9988748888e+03   0.00e+00  1.00e+00    1.000000e+00
+   3 1.1644864816e-06  -8.58e-06  1.00e-03    5.625720e-05
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.16449e-06
+rel. change during last iteration : -8.58479e-11
+
+degrees of freedom    (FIT_NDF)                        : 9999
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.07917e-05
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.1646e-10
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 5.62572e-05      +/- 1.079e-07    (0.1918%)
+
+
+*******************************************************************************
+Tue May 16 10:47:40 2017
+
+
+FIT:    data read from 'exetimeadaptive24.dat'
+        format = z
+        x range restricted to [2000.00 : 10000.0]
+        #datapoints = 8000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 7.9963978256e+03   0.00e+00  1.00e+00    1.000000e+00
+   3 2.0582986649e-06  -9.48e-06  1.00e-03    2.251614e-04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.0583e-06
+rel. change during last iteration : -9.48235e-11
+
+degrees of freedom    (FIT_NDF)                        : 7999
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.60412e-05
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.57319e-10
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 0.000225161      +/- 1.793e-07    (0.07965%)
+
+
+*******************************************************************************
+Tue May 16 14:51:02 2017
+
+
+FIT:    data read from 'exetimeadaptive8.dat' u 0:1
+        format = x:z
+        x range restricted to [-39.0000 : 91.0000]
+        #datapoints = 92
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 9.1975954156e+01   0.00e+00  1.00e+00    1.000000e+00
+   4 5.8414747826e-07  -3.63e-11  1.00e-04    1.306957e-04
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 5.84147e-07
+rel. change during last iteration : -3.62508e-16
+
+degrees of freedom    (FIT_NDF)                        : 91
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 8.01199e-05
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.4192e-09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 0.000130696      +/- 8.353e-06    (6.391%)
+
+
+*******************************************************************************
+Tue May 16 14:51:44 2017
+
+
+FIT:    data read from 'exetimeadaptive16.dat' u 0:1
+        format = x:z
+        x range restricted to [-39.0000 : 91.0000]
+        #datapoints = 92
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.6091225652e-06   0.00e+00  1.31e-04    1.306957e-04
+   3 1.3731847283e-06  -2.35e-08  1.31e-07    8.005435e-05
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.37318e-06
+rel. change during last iteration : -2.34861e-13
+
+degrees of freedom    (FIT_NDF)                        : 91
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000122841
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.50899e-08
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 8.00543e-05      +/- 1.281e-05    (16%)
+
+
+*******************************************************************************
+Tue May 16 14:51:54 2017
+
+
+FIT:    data read from 'exetimeadaptive32.dat' u 0:1
+        format = x:z
+        x range restricted to [-39.0000 : 91.0000]
+        #datapoints = 92
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 6.5832160761e-06   0.00e+00  8.01e-05    8.005435e-05
+   3 2.1277756848e-06  -2.86e-07  8.01e-08    3.001196e-04
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.12778e-06
+rel. change during last iteration : -2.86003e-12
+
+degrees of freedom    (FIT_NDF)                        : 91
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000152912
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.33822e-08
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 0.00030012       +/- 1.594e-05    (5.312%)
+
+
+*******************************************************************************
+Tue May 16 14:52:00 2017
+
+
+FIT:    data read from 'exetimeadaptive64.dat' u 0:1
+        format = x:z
+        x range restricted to [-39.0000 : 91.0000]
+        #datapoints = 92
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 2.4717242283e-06   0.00e+00  3.00e-04    3.001196e-04
+   2 2.4300103043e-06  -1.98e-01  3.00e-06    3.214130e-04
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 2.43001e-06
+rel. change during last iteration : -1.98476e-06
+
+degrees of freedom    (FIT_NDF)                        : 91
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000163412
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.67034e-08
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 0.000321413      +/- 1.704e-05    (5.301%)
+
+
+*******************************************************************************
+Tue May 16 14:52:06 2017
+
+
+FIT:    data read from 'exetimeadaptive128.dat' u 0:1
+        format = x:z
+        x range restricted to [-39.0000 : 91.0000]
+        #datapoints = 92
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 7.5427488791e-05   0.00e+00  3.21e-04    3.214130e-04
+   3 6.4263367283e-06  -1.47e-06  3.21e-07    1.187446e-03
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 6.42634e-06
+rel. change during last iteration : -1.46644e-11
+
+degrees of freedom    (FIT_NDF)                        : 91
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000265743
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.06191e-08
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 0.00118745       +/- 2.771e-05    (2.333%)
+
+
+*******************************************************************************
+Tue May 16 14:53:21 2017
+
+
+FIT:    data read from 'exetimeadaptive8.dat' u 0:1
+        format = x:z
+        #datapoints = 10000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Tue May 16 14:53:32 2017
+
+
+FIT:    data read from 'exetimeadaptive8.dat' u 0:1
+        format = x:z
+        #datapoints = 10000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 9.9988748888e+03   0.00e+00  1.00e+00    1.000000e+00
+   3 1.1644864816e-06  -8.58e-06  1.00e-03    5.625720e-05
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.16449e-06
+rel. change during last iteration : -8.58479e-11
+
+degrees of freedom    (FIT_NDF)                        : 9999
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.07917e-05
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.1646e-10
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 5.62572e-05      +/- 1.079e-07    (0.1918%)
+
+
+*******************************************************************************
+Tue May 16 15:34:48 2017
+
+
+FIT:    data read from 'exetimeadaptive8.dat' u 0:1
+        format = x:z
+        x range restricted to [1000.00 : 2500.00]
+        #datapoints = 1501
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.5008337426e+03   0.00e+00  1.00e+00    1.000000e+00
+   4 1.9089633578e-09   0.00e+00  1.00e-04    5.538374e-05
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 1.90896e-09
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 1500
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.12811e-06
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.27264e-12
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 5.53837e-05      +/- 2.912e-08    (0.05258%)
+
+
+*******************************************************************************
+Tue May 16 15:37:38 2017
+
+
+FIT:    data read from 'exetimeadaptive8.dat' u 0:1
+        format = x:z
+        x range restricted to [1000.00 : 2500.00]
+        #datapoints = 1501
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=stddev_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   stddev_y     
+   0 1.5008337426e+03   0.00e+00  1.00e+00    1.000000e+00
+   4 1.9089633578e-09   0.00e+00  1.00e-04    5.538374e-05
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 1.90896e-09
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 1500
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.12811e-06
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.27264e-12
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+stddev_y        = 5.53837e-05      +/- 2.912e-08    (0.05258%)
+
+
+*******************************************************************************
+Tue May 16 15:38:18 2017
+
+
+FIT:    data read from 'exetimeadaptive8.dat' u 0:1
+        format = x:z
+        x range restricted to [1000.00 : 2500.00]
+        #datapoints = 1501
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.9089633578e-09   0.00e+00  5.54e-05    5.538374e-05
+   1 1.9089633578e-09   0.00e+00  5.54e-06    5.538374e-05
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 1.90896e-09
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 1500
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.12811e-06
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.27264e-12
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 5.53837e-05      +/- 2.912e-08    (0.05258%)
+
+
+*******************************************************************************
+Tue May 16 15:43:11 2017
+
+
+FIT:    data read from 'exetimeadaptive16.dat' u 0:1
+        format = x:z
+        #datapoints = 5000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 4.9993055769e+03   0.00e+00  1.00e+00    1.000000e+00
+   3 2.7994968750e-06  -2.86e-05  1.00e-03    6.944500e-05
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.7995e-06
+rel. change during last iteration : -2.85611e-10
+
+degrees of freedom    (FIT_NDF)                        : 4999
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.36646e-05
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.60011e-10
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 6.9445e-05       +/- 3.347e-07    (0.4819%)
+
+
+*******************************************************************************
+Tue May 16 15:44:13 2017
+
+
+FIT:    data read from 'exetimeadaptive24.dat' u 0:1
+        format = x:z
+        #datapoints = 5000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 3.5907055839e-04   0.00e+00  6.94e-05    6.944500e-05
+   2 2.3093228107e-04  -2.22e-03  6.94e-07    2.295314e-04
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 0.000230932
+rel. change during last iteration : -2.21861e-08
+
+degrees of freedom    (FIT_NDF)                        : 4999
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000214932
+variance of residuals (reduced chisquare) = WSSR/ndf   : 4.61957e-08
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 0.000229531      +/- 3.04e-06     (1.324%)
+
+
+*******************************************************************************
+Tue May 16 15:44:45 2017
+
+
+FIT:    data read from 'exetimeadaptive32.dat' u 0:1
+        format = x:z
+        #datapoints = 5000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 7.0152067229e-05   0.00e+00  2.30e-04    2.295314e-04
+   2 2.4493975512e-06  -1.11e-01  2.30e-06    1.131676e-04
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 2.4494e-06
+rel. change during last iteration : -1.10518e-06
+
+degrees of freedom    (FIT_NDF)                        : 4999
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.21354e-05
+variance of residuals (reduced chisquare) = WSSR/ndf   : 4.89978e-10
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 0.000113168      +/- 3.13e-07     (0.2766%)
+
+
+*******************************************************************************
+Tue May 16 15:45:36 2017
+
+
+FIT:    data read from 'exetimeadaptive24.dat'
+        format = z
+        #datapoints = 5000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=mean_y
+BREAK: Need via and either parameter list or file
+
+*******************************************************************************
+Tue May 16 15:45:56 2017
+
+
+FIT:    data read from 'exetimeadaptive64.dat' u 0:1
+        format = x:z
+        #datapoints = 5000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.9830796118e-04   0.00e+00  1.13e-04    1.131676e-04
+   2 1.3655267277e-05  -5.41e-02  1.13e-06    3.053408e-04
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 1.36553e-05
+rel. change during last iteration : -5.40682e-07
+
+degrees of freedom    (FIT_NDF)                        : 4999
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 5.22647e-05
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.7316e-09
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 0.000305341      +/- 7.391e-07    (0.2421%)
+
+
+*******************************************************************************
+Tue May 16 15:46:43 2017
+
+
+FIT:    data read from 'exetimeadaptive128.dat' u 0:1
+        format = x:z
+        #datapoints = 5000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=mean_y
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   mean_y       
+   0 1.8591416367e-02   0.00e+00  3.05e-04    3.053408e-04
+   2 1.2370230466e-02  -2.01e-03  3.05e-06    1.420795e-03
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 0.0123702
+rel. change during last iteration : -2.01086e-08
+
+degrees of freedom    (FIT_NDF)                        : 4999
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00157307
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.47454e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+mean_y          = 0.00142079       +/- 2.225e-05    (1.566%)
